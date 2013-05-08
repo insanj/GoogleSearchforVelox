@@ -1,0 +1,9 @@
+Package: com.insanj.googlevelox
+Name: Google Search for Velox
+Depends: firmware (>= 6.0), com.apextweaks.velox
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Quick search from the Google app!
+Maintainer: insanj <me@insanj.com>
+Author: Julian "insanj" Weiss
+Section: Addons (Velox)
