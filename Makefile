@@ -1,7 +1,7 @@
 include theos/makefiles/common.mk
 
 BUNDLE_NAME = GoogleVelox
-GoogleVelox_FILES = GoogleVeloxFolderView.mm
+GoogleVelox_FILES = GoogleVeloxFolderView.xm
 GoogleVelox_INSTALL_PATH = /Library/Velox/Plugins/
 GoogleVelox_FRAMEWORKS = Foundation UIKit
 
