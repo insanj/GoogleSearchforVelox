@@ -1,15 +1,10 @@
-Google Search for Velox
-=======================
+# Google Search for Velox
 
-Quick search from the Google app!
+Quick search from the Google app! Wouldn't have been possible without [Stopwatch](https://github.com/maxkatzmann/Velox-Stopwatch) and [Carrox](https://github.com/hbang/Carrox). Retired as of iOS 7, alongside Velox.
 
-Wouldn't have been possible without Stopwatch and Carrox:
-https://github.com/maxkatzmann/Velox-Stopwatch
-https://github.com/hbang/Carrox
-
----------------------------------------
+## License
 	Simplified BSD License
-	Copyright (c) 2013, Julian Weiss
+	Copyright (c) 2013-2014, Julian Weiss
 	All rights reserved.
 
 	Redistribution and use in source and binary forms, with or without
